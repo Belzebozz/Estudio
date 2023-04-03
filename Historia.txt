@@ -1,1 +1,1 @@
-Prueba para ver si git funciona
+Prueba para ver si git funciona, y en efecto funciona
